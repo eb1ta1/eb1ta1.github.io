@@ -15,7 +15,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eb1ta1.github.io/posts/ayusa/</guid>
-      <description></description>
+      <description>def rle_decode(mask_rle, shape): &amp;#39;&amp;#39;&amp;#39; mask_rle: run-length as string formated (start length) shape: (height,width) of array to return Returns numpy array, 1 - mask, 0 - background &amp;#39;&amp;#39;&amp;#39; s = mask_rle.split() starts, lengths = [np.asarray(x, dtype=int) for x in (s[0:][::2], s[1:][::2])] starts -= 1 ends = starts + lengths img = np.zeros(shape[0]*shape[1], dtype=np.uint8) for lo, hi in zip(starts, ends): img[lo:hi] = 1 return img.reshape(shape) def rle_encode(img): &amp;#39;&amp;#39;&amp;#39; img: numpy array, 1 - mask, 0 - background Returns run length as string formated &amp;#39;&amp;#39;&amp;#39; pixels = img.</description>
     </item>
     
   </channel>
