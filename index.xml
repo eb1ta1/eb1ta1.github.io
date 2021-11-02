@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>tannytech</title>
-    <link>https://www.blog.tanny.tech/</link>
-    <description>Recent content on tannytech</description>
+    <title>eb1ta1 blog</title>
+    <link>eb1ta1.github.io/</link>
+    <description>Recent content on eb1ta1 blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.blog.tanny.tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="eb1ta1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HugoとVercelを使ってブログを始めてみた</title>
-      <link>https://www.blog.tanny.tech/posts/build-own-blog/</link>
+      <title>ブログを作った際の備忘録</title>
+      <link>eb1ta1.github.io/posts/build-own-blog/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.blog.tanny.tech/posts/build-own-blog/</guid>
-      <description>HugoとVercelを使って出来るだけストレスの少ないブログ環境を作ってみました。
-GitHub Actions と Vercel を使ったお手軽ブログの構築方法について紹介します。
-GitHub Actions を使ってビルドを自動化する  まずは、公開されているGitHub Actionsを使ってHugoのビルドを自動化します。 </description>
+      <guid>eb1ta1.github.io/posts/build-own-blog/</guid>
+      <description></description>
     </item>
     
   </channel>
