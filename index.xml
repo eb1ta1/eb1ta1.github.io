@@ -11,18 +11,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 13 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>年内に達成したい5つの目標をネットに放流する</title>
-      <link>https://eb1ta1.github.io/posts/chaii-kaggle/</link>
+      <title>『統計学入門』を読み終わりました</title>
+      <link>https://eb1ta1.github.io/posts/stat-book-utokyo/</link>
       <pubDate>Sat, 13 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://eb1ta1.github.io/posts/chaii-kaggle/</guid>
-      <description>という訳で、私(@eb1ta1)が年内に達成したいと思っている5つの事柄についてインターネットの海に放流させていただきます。感じるのです、共感性羞恥を&amp;hellip;。
-1. 統計検定準1級に合格する 最も優先度が高い目標はこれです。統計検定準1級の最年少合格者は現在18歳なので、合格して最年少合格者になってやろうと思っています(なんとなく格好いいので)。とても不純な動機です。
-2. 英検準2級に合格する 次に優先度が高い目標がこれです。私は来年の夏からアメリカに留学に行くため、そろそろ英検を取っておかないと&amp;hellip;という訳です。はい、実は中3なのにまだ英検を受けたことがありません。
-3. Kaggleでメダルを取る 実は私かなり前からKaggleに登録しているのですが、やるやる詐欺で一枚もメダルを取ったことがありません。そろそろメダルをもぎ取りに行こうと思います。
-4. ゲート式量子コンピューターを使ったアプリを作る IPAの量子コンピューティング技術実践講座 (ゲート式) に参加していて、量子コンピューター勉強したい欲が俄然高まっているので目標として挙げてみました。何かしらのアプリを作ってみます。制作過程はブログに投稿しますのでお楽しみに(?)。
-5. 深層学習について完全に理解する 『ゼロから作るDeep Learning』の1冊目を読んで完全に理解しようと思ってます。
- 以上です。</description>
+      <guid>https://eb1ta1.github.io/posts/stat-book-utokyo/</guid>
+      <description>微積すら知らない中学生でもギリギリ理解できる難易度です。かなりおすすめです。</description>
+    </item>
+    
+    <item>
+      <title>年内に達成したい5つの目標をネットに放流する</title>
+      <link>https://eb1ta1.github.io/posts/5-target-2021/</link>
+      <pubDate>Fri, 12 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eb1ta1.github.io/posts/5-target-2021/</guid>
+      <description>私が年内にやりたい5つのことについて。 (統計/英語/Kaggle/DL/量子コンピュータ)</description>
     </item>
     
     
