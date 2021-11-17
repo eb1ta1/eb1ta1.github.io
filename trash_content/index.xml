@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>eb1ta1</title>
-    <link>https://eb1ta1.github.io/</link>
-    <description>Recent content on eb1ta1</description>
+    <title>Trash_contents on eb1ta1</title>
+    <link>https://eb1ta1.github.io/trash_content/</link>
+    <description>Recent content in Trash_contents on eb1ta1</description>
     <image>
       <url>https://eb1ta1.github.io/papermod-cover.png</url>
       <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>📌 [AL-15] 留学前に達成したい13のリスト</title>
-      <link>https://eb1ta1.github.io/posts/target/</link>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://eb1ta1.github.io/posts/target/</guid>
-      <description>Kaggle Kaggle Expert になる 金メダルを取る! お勉強 統計検定準1級に合格する 英検2級に合格する 英語の小説を20冊読む OSS OSSを1つ公開する 有名なライブラリにPRを投げる 量子コンピューター ゲート式マシンを使ったアプリを作る 深層学習 深層学習ライブラリを自作する 界隈の論文を20本読む その他 英文タイピングを極める CTFに出る クッソ美味いインドカレーを作る  以上です。</description>
-    </item>
-    
+    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/trash_content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>統計検定準1級合格に向けて (メモ)</title>
       <link>https://eb1ta1.github.io/trash_content/stat-30days/</link>
@@ -30,8 +21,6 @@
 一応最年少合格を狙っているけど、それ以上の何かを目指しているわけではない。
 スケジュール  ワークブックをゴリゴリ読み進める (2週間) 過去問をゴリゴリ解く (1週間)  </description>
     </item>
-    
-    
     
   </channel>
 </rss>
