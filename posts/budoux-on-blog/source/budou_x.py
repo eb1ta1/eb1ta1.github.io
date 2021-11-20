@@ -14,7 +14,7 @@ def budou_x_convert():
 
     parser = budoux.load_default_japanese_parser()
     converted_text = parser.translate_html_string(text)
-    # print(converted_text)
+    print(converted_text)
 
     f = open(base_path + output_file, 'w')
     f.write(converted_text)
