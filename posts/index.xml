@@ -9,14 +9,24 @@
       <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>📌 [AL-15] 留学前に達成したい13のリスト</title>
-      <link>https://eb1ta1.github.io/posts/target/</link>
-      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <title>BudouX を GitHub Actions 上で動かしてみる</title>
+      <link>https://eb1ta1.github.io/posts/budoux-on-blog/</link>
+      <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://eb1ta1.github.io/posts/target/</guid>
-      <description>Kaggle Kaggle Expert になる 金メダルを取る! お勉強 統計検定準1級に合格する 英検2級に合格する 英語の小説を20冊読む OSS OSSを1つ公開する 有名なライブラリにPRを投げる 量子コンピューター ゲート式マシンを使ったアプリを作る 深層学習 深層学習ライブラリを自作する 界隈の論文を20本読む その他 英文タイピングを極める CTFに出る クッソ美味いインドカレーを作る  以上です。</description>
+      <guid>https://eb1ta1.github.io/posts/budoux-on-blog/</guid>
+      <description>Googleの日本語改行ライブラリ、Budouの後継版に当たるBudouXが公開されたので、GitHub Actions 上で動かしてみました。
+Webアプリで試してみる 公式デモアプリを使い、日本語版Lorem Ipsumとしておなじみのイーハトーブを変換してみました。
+原文
+ あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。山路を登りながら、こう考えた。智に働けば角が立つ。情に棹させば流される。意地を通せば窮屈だ。とかくに人の世は住みにくい。住みにくさが高じると、安い所へ引き越したくなる。どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。
+ 変換後
+ あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。山路を登りながら、こう考えた。智に働けば角が立つ。情に棹させば流される。意地を通せば窮屈だ。とかくに人の世は住みにくい。住みにくさが高じると、安い所へ引き越したくなる。どこへ越しても住みにくいと悟った時、詩が生れて、画が出来る。
+ かなり読みやすくなっています。
+Pythonで動かしてみる 次に、BudouXをインストールしたPython環境で試してみます。
+import budoux parser = budoux.load_default_japanese_parser() print(parser.translate_html_string(&amp;#39;あのイーハトーヴォのすきとおった風、夏でも底に冷たさをもつ青いそら、うつくしい森で飾られたモリーオ市、郊外のぎらぎらひかる草の波。&amp;#39;)) このようなHTMLコードが出力されます。
+&amp;lt;span style=&amp;quot;word-break: keep-all; overflow-wrap: break-word;&amp;quot;&amp;gt;あのイーハトーヴォの&amp;lt;wbr&amp;gt;すきと&amp;lt;wbr&amp;gt;おった&amp;lt;wbr&amp;gt;風、&amp;lt;wbr&amp;gt;夏でも&amp;lt;wbr&amp;gt;底に&amp;lt;wbr&amp;gt;冷たさを&amp;lt;wbr&amp;gt;もつ&amp;lt;wbr&amp;gt;青いそら、&amp;lt;wbr&amp;gt;うつくしい&amp;lt;wbr&amp;gt;森で&amp;lt;wbr&amp;gt;飾られた&amp;lt;wbr&amp;gt;モリーオ市、&amp;lt;wbr&amp;gt;郊外の&amp;lt;wbr&amp;gt;ぎらぎらひかる&amp;lt;wbr&amp;gt;草の&amp;lt;wbr&amp;gt;波。&amp;lt;/span&amp;gt; より簡単に使えるようにするため、budou_x.pyというファイルを作ってみました。
+# budou_x.py def budou_x_convert(input_file, output_file): text_file = open(input_file, &amp;#39;r&amp;#39;) text = text_file.read() text_file.close() import budoux parser = budoux.load_default_japanese_parser() converted_text = parser.translate_html_string(text) print(converted_text) f = open(output_file, &amp;#39;w&amp;#39;) f.write(converted_text) f.close() from budou_x import budou_x_convert as budou budou(&amp;#39;./example.txt&amp;#39;, &amp;#39;./converted_example.html&amp;#39;) GitHub Actions 上で実行してみる </description>
     </item>
     
   </channel>
