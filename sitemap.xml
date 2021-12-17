@@ -1,29 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>https://eb1ta1.github.io/archives/</loc>
-  </url>
+  <sitemap>
+    <loc>https://eb1ta1.github.io/ja/sitemap.xml</loc>
+    
+      <lastmod>2021-12-17T00:00:00+00:00</lastmod>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://eb1ta1.github.io/categories/</loc>
-  </url>
+  <sitemap>
+    <loc>https://eb1ta1.github.io/en/sitemap.xml</loc>
+    
+  </sitemap>
   
-  <url>
-    <loc>https://eb1ta1.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/search/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/tags/</loc>
-  </url>
-  
-</urlset>
+</sitemapindex>
