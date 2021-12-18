@@ -49,6 +49,16 @@
   
   <url>
     <loc>https://eb1ta1.github.io/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eb1ta1.github.io/en/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eb1ta1.github.io/archives/"
+                />
   </url>
   
   <url>
@@ -67,6 +77,16 @@
   
   <url>
     <loc>https://eb1ta1.github.io/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eb1ta1.github.io/en/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eb1ta1.github.io/search/"
+                />
   </url>
   
   <url>
