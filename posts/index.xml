@@ -16,7 +16,13 @@
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://eb1ta1.github.io/posts/kitty-get-started/</guid>
-      <description>ブログを始めた理由を書きました。</description>
+      <description>Kittyとは? GPUベースのターミナルソフトです。Python/Cで作られています。
+ Kitty - the fast, feature-rich, cross-platform, GPU based terminal https://github.com/kovidgoyal/kitty
+ インストール方法 公式ドキュメント ↓
+ Install kitty | kitty
+https://sw.kovidgoyal.net/kitty/binary/
+ Linuxの場合は以下のコマンドでインストール可能です。
+# Create a symbolic link to add kitty to PATH (assuming ~/.local/bin is in your PATH) ln -s ~/.local/kitty.app/bin/kitty ~/.local/bin/ # Place the kitty.desktop file somewhere it can be found by the OS cp ~/.local/kitty.app/share/applications/kitty.desktop ~/.local/share/applications/ # Update the path to the kitty icon in the kitty.</description>
     </item>
     
   </channel>
