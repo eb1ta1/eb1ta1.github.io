@@ -3,51 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eb1ta1.github.io/</loc>
-    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eb1ta1.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eb1ta1.github.io/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/posts/kitty-get-started/</loc>
-    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/posts/</loc>
-    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/tags/</loc>
-    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eb1ta1.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eb1ta1.github.io/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/tags/terminal/</loc>
-    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eb1ta1.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -76,6 +31,20 @@
   </url>
   
   <url>
+    <loc>https://eb1ta1.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eb1ta1.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eb1ta1.github.io/"
+                />
+  </url>
+  
+  <url>
     <loc>https://eb1ta1.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -100,6 +69,20 @@
                 rel="alternate"
                 hreflang="ja"
                 href="https://eb1ta1.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eb1ta1.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eb1ta1.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eb1ta1.github.io/tags/"
                 />
   </url>
   
