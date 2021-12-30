@@ -9,19 +9,14 @@
       <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2022年の目標</title>
-      <link>https://eb1ta1.github.io/posts/new-year-2021/</link>
-      <pubDate>Sun, 26 Dec 2021 00:00:00 +0000</pubDate>
+      <title>Arch Linux をインストールする</title>
+      <link>https://eb1ta1.github.io/posts/arch-linux-gnome/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://eb1ta1.github.io/posts/new-year-2021/</guid>
-      <description>技術関連の目標 統計検定準1級に合格する 2月上旬に統計検定準1級を受験する予定です。マジです。
-OSSを個人で開発する Pythonでなにか作ります。
-Kaggleで金メダルを取る まあKaggleでメダルを取ったこと無いんですけどね・・・。
-人間としての目標 英検2級に合格する 一応留学するので、英検2級ぐらいは取っておこうと考えてます。知らんけど。
-ブラックコーヒーを飲めるようになる 本気ですよ!?!?!?
- </description>
+      <guid>https://eb1ta1.github.io/posts/arch-linux-gnome/</guid>
+      <description>yayha </description>
     </item>
     
     
