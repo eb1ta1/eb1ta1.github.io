@@ -1,20 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://eb1ta1.github.io/posts/2022/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/tags/dev/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://eb1ta1.github.io/posts/arch-linux-gnome/</loc>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eb1ta1.github.io/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -25,31 +17,15 @@
                 hreflang="ja"
                 href="https://eb1ta1.github.io/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/tags/new_year/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/tags/other/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/tags/poem/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://eb1ta1.github.io/tags/linux/</loc>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eb1ta1.github.io/posts/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eb1ta1.github.io/tags/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-12-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -60,9 +36,7 @@
                 hreflang="ja"
                 href="https://eb1ta1.github.io/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eb1ta1.github.io/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -74,9 +48,7 @@
                 hreflang="ja"
                 href="https://eb1ta1.github.io/archives/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eb1ta1.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -88,9 +60,7 @@
                 hreflang="ja"
                 href="https://eb1ta1.github.io/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eb1ta1.github.io/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -102,9 +72,7 @@
                 hreflang="ja"
                 href="https://eb1ta1.github.io/search/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://eb1ta1.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -117,5 +85,4 @@
                 href="https://eb1ta1.github.io/series/"
                 />
   </url>
-  
 </urlset>
