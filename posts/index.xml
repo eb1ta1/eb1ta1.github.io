@@ -9,22 +9,14 @@
       <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Arch Linux をインストールした際の備忘録</title>
-      <link>https://eb1ta1.github.io/posts/arch-linux-gnome/</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <title>2022年の抱負</title>
+      <link>https://eb1ta1.github.io/posts/2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://eb1ta1.github.io/posts/arch-linux-gnome/</guid>
-      <description>MacBook Air (2020) 先日、メインPCのOSを Arch Linux にしました。簡単にいけるやろ！と思っていましたが、意外なことに躓いて10時間強を溶かすことになりました。もう二度と繰り返したくないので、備忘録という体でネットに放流します。
-インストールディスクの作成 Arch Linux のダウンロードサイトからISOファイルをダウンロードし、ddコマンドで手持ちのUSBに書き込みます。詳しくは↓のリンクを参考にしてください。
- USB flash installation medium | Arch Linux
-https://wiki.archlinux.org/title/USB_flash_installation_medium
- UEFIのセットアップ 今回のインストールで個人的に最大の鬼門だったのが、UEFIの設定でした。結論から言ってしまえば、Intel VT (VT: Virtualization Technology) なるものがデフォルトで有効化されており、それによってUSBブートができませんでした。(※インストール後に有効化しましたが普通に起動できました)
-なお、CSM と Secure Boot もデフォルトで有効化されていたのですが、 UEFIを使っている場合はいずれも無効化したほうが良さそうです。
-パーティション EFI用、root用、swap用で分割します。ただし、私の環境ではメモリが32GBあるのでswap用のパーティションは作りませんでした。なお、Arch Linux を起動した状態でパーティションを割る場合は当然CUIで行うことになるため、それが怖い方はGPartedなどを他の Live USB 環境で起動1し、GUIで実行したほうが安心できるかもしれません。
-いざインストール &amp;#39;hwha&amp;#39;   GParted Live on USB がおすすめです。&amp;#160;&amp;#x21a9;&amp;#xfe0e;
-   </description>
+      <guid>https://eb1ta1.github.io/posts/2022/</guid>
+      <description></description>
     </item>
     
   </channel>
