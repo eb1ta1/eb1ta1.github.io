@@ -3,17 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://eb1ta1.github.io/categories/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eb1ta1.github.io/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eb1ta1.github.io/tags/new_year/</loc>
+    <loc>https://eb1ta1.github.io/categories/idea/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eb1ta1.github.io/tags/poem/</loc>
+    <loc>https://eb1ta1.github.io/tags/new_year/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,15 +38,16 @@
   </url>
   
   <url>
+    <loc>https://eb1ta1.github.io/posts/about/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eb1ta1.github.io/archives.en/</loc>
   </url>
   
   <url>
     <loc>https://eb1ta1.github.io/archives/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/categories/</loc>
   </url>
   
   <url>
