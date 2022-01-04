@@ -9,11 +9,20 @@
       <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>first_post</title>
+      <link>https://eb1ta1.github.io/tags/first_post/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eb1ta1.github.io/tags/first_post/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>new_year</title>
       <link>https://eb1ta1.github.io/tags/new_year/</link>
-      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eb1ta1.github.io/tags/new_year/</guid>
       <description></description>
