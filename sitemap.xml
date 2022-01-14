@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eb1ta1.github.io/posts/2022/</loc>
+    <loc>https://eb1ta1.github.io/categories/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eb1ta1.github.io/categories/</loc>
+    <loc>https://eb1ta1.github.io/posts/manjaro-vuls/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,27 +18,32 @@
   </url>
   
   <url>
-    <loc>https://eb1ta1.github.io/tags/first_post/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/categories/idea/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/tags/new_year/</loc>
-    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eb1ta1.github.io/posts/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://eb1ta1.github.io/tags/security/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eb1ta1.github.io/tags/software/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eb1ta1.github.io/tags/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eb1ta1.github.io/tags/tech/</loc>
+    <lastmod>2022-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eb1ta1.github.io/categories/tech/</loc>
     <lastmod>2022-01-03T00:00:00+00:00</lastmod>
   </url>
   
