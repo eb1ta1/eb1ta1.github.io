@@ -9,14 +9,14 @@
       <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Docker 上で Vuls を実行する</title>
-      <link>https://eb1ta1.github.io/posts/manjaro-vuls/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <title>Manjaro Linux (GNOME) の初期設定ログ</title>
+      <link>https://eb1ta1.github.io/posts/2022-manjaro-gnome/</link>
+      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://eb1ta1.github.io/posts/manjaro-vuls/</guid>
-      <description>このブログについての諸々の情報をまとめたページです。</description>
+      <guid>https://eb1ta1.github.io/posts/2022-manjaro-gnome/</guid>
+      <description>GNOME版の Manjaro Linux をインストール&amp;amp;環境構築した際の備忘録です。</description>
     </item>
     
   </channel>
