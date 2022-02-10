@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on eb1ta1</title>
+    <title>Posts on eb1notes</title>
     <link>https://eb1ta1.github.io/posts/</link>
-    <description>Recent content in Posts on eb1ta1</description>
+    <description>Recent content in Posts on eb1notes</description>
     <image>
       <url>https://eb1ta1.github.io/papermod-cover.png</url>
       <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 16 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Manjaro Linux (GNOME) の初期設定ログ</title>
-      <link>https://eb1ta1.github.io/posts/2022-manjaro-gnome/</link>
-      <pubDate>Sun, 16 Jan 2022 00:00:00 +0000</pubDate>
+      <title>留学前にやりたいこと&#43;その進捗</title>
+      <link>https://eb1ta1.github.io/posts/spring/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://eb1ta1.github.io/posts/2022-manjaro-gnome/</guid>
-      <description>GNOME版の Manjaro Linux をインストール&amp;amp;環境構築した際の備忘録です。</description>
+      <guid>https://eb1ta1.github.io/posts/spring/</guid>
+      <description>英検を取る 2級を3月上旬に受験する予定。
+統計検定を取る 準1級を3月下旬に受験する予定。
+Kaggleに出る メダルが欲しい。(え?)
+深層学習のフレームワークを作る 『ゼロから作るディープラーニング③』を写経する予定。
+伊豆諸島に行く 伊豆大島を自転車で一周したい。
+RISC-Vで遊ぶ ロマン。
+ハッカソンに出る 賞金王に、俺はなる!!
+競プロに慣れる Qiitaで公開されていた ｢初中級者が解くべき過去問精選100問｣ を解く予定。</description>
     </item>
     
   </channel>
