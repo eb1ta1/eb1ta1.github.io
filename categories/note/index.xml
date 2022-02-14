@@ -9,31 +9,14 @@
       <link>https://eb1ta1.github.io/notes/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/notes/categories/note/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>留学前にやりたいことと、その進捗</title>
-      <link>https://eb1ta1.github.io/notes/posts/before-study-abroad/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://eb1ta1.github.io/notes/posts/before-study-abroad/</guid>
-      <description>英検を取る 2級を3月上旬に受験する予定。
-統計検定を取る 準1級を3月下旬に受験する予定。
-Kaggleに出る メダルが欲しい。
-深層学習のフレームワークを作る 伊豆諸島に行く 伊豆大島を自転車で一周したい。
-RISC-Vで遊ぶ ロマン。
-ハッカソンに出る 競プロに慣れる Qiitaで公開されていた ｢初中級者が解くべき過去問精選100問｣ を解く予定。</description>
-    </item>
-    
+    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/notes/categories/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>このサイトについて</title>
       <link>https://eb1ta1.github.io/notes/posts/about/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eb1ta1.github.io/notes/posts/about/</guid>
-      <description>このサイトについての簡単な説明を残しておきます。
-概要 eb1notesは、僕が好きなことを書き、気軽にネット上に放出できる場所として利用しているサイトです。サイトジェネレーターとしてHugoを利用しています。
-ドメイン https://eb1ta1.github.io/notes/ 上で運用しています。なお、https://eb1ta1.github.io にアクセスすると404エラーが出るようになっています。
-デザイン Hugoのテーマとして人気のあるPaperModを一部カスタマイズして使っています。できるだけ文章が読みやすいデザインにしているつもりです。</description>
+      <description>このサイトについての簡単な説明です。</description>
     </item>
     
   </channel>
