@@ -1,22 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on eb1notes</title>
-    <link>https://eb1ta1.github.io/notes/posts/</link>
-    <description>Recent content in Posts on eb1notes</description>
+    <title>Posts on eb1note</title>
+    <link>https://eb1ta1.github.io/posts/</link>
+    <description>Recent content in Posts on eb1note</description>
     <image>
-      <url>https://eb1ta1.github.io/notes/papermod-cover.png</url>
-      <link>https://eb1ta1.github.io/notes/papermod-cover.png</link>
+      <url>https://eb1ta1.github.io/papermod-cover.png</url>
+      <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/notes/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>このサイトについて</title>
-      <link>https://eb1ta1.github.io/notes/posts/about/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <title>ブログを始めました</title>
+      <link>https://eb1ta1.github.io/posts/about/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://eb1ta1.github.io/notes/posts/about/</guid>
-      <description>このサイトについての簡単な説明です。</description>
+      <guid>https://eb1ta1.github.io/posts/about/</guid>
+      <description>ブログを始めました。
+&amp;ldquo;eb1note&amp;rdquo; の由来 「海老で鯛を釣る」という諺からとった「エビ」と、英語で文書やメモなどの意味を持つ「ノート」を組み合わせた造語です。「ebinote」だとに読みにくいので、あえて「eb1note」にしています。
+記事のカテゴリー  #FM → ポッドキャスト的な感覚で雑多に書きます。 #Poem → 「お気持ち表明」が主体の記事です。 #Idea → 色々と気づいたことなどを書きます。  サイト構成 Hugo + GitHub Pages で運用しています。近日中に独自ドメインを取得する予定です。はてなブログにするか迷いましたが、VSCodeでサクサクと書きたかったのでHugoを選びました。
+デザイン面でのこだわり モノトーンを基調に、文章の読みやすさを重視したデザインです&amp;hellip;とイキりたいところですが、実際はhugo-PaperModというHugoの人気テーマをほぼそのまま使っています。</description>
     </item>
     
   </channel>
