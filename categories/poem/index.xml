@@ -9,26 +9,14 @@
       <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/categories/poem/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MacBook Air を購入した話</title>
-      <link>https://eb1ta1.github.io/posts/m1-macbook-air/</link>
-      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://eb1ta1.github.io/posts/m1-macbook-air/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 16 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/categories/poem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ブログを始めました</title>
       <link>https://eb1ta1.github.io/posts/about/</link>
-      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 16 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://eb1ta1.github.io/posts/about/</guid>
-      <description>ブログを始めました。
-&amp;ldquo;eb1note&amp;rdquo; の由来 「海老で鯛を釣る」という諺からとった「エビ」と、英語で文書やメモなどの意味を持つ「ノート」を組み合わせた造語です。「ebinote」だと読みにくいので、あえて「eb1note」にしています。
-記事のカテゴリー  #Tech → 技術的なことを書きます。 #Poem → お気持ち表明が主体の記事です。 #Idea → 色々と気づいたことなどを書きます。  サイト構成 Hugo + GitHub Pages で運用しています。近日中に独自ドメインを取得する予定です。はてなブログにするか迷いましたが、VSCodeでサクサクと書きたかったのでHugoを選びました。
-デザイン面でのこだわり モノトーンを基調に、文章の読みやすさを重視したデザインです&amp;hellip;とイキりたいところですが、実際はhugo-PaperModというHugoの人気テーマをほぼそのまま使っています。</description>
+      <description>くだらないことを書くブログを始めました。</description>
     </item>
     
   </channel>
