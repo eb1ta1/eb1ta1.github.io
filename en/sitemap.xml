@@ -1,6 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://eb1ta1.github.io/en/categories/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eb1ta1.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eb1ta1.github.io/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eb1ta1.github.io/en/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eb1ta1.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eb1ta1.github.io/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eb1ta1.github.io/en/posts/hello-world/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eb1ta1.github.io/posts/hello-world/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eb1ta1.github.io/en/posts/hello-world/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eb1ta1.github.io/en/categories/poem/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eb1ta1.github.io/categories/poem/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eb1ta1.github.io/en/categories/poem/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eb1ta1.github.io/en/posts/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eb1ta1.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eb1ta1.github.io/en/posts/"
+                />
+  </url>
+  
   <url>
     <loc>https://eb1ta1.github.io/en/archives/</loc>
     <xhtml:link
@@ -13,31 +89,9 @@
                 hreflang="en"
                 href="https://eb1ta1.github.io/en/archives/"
                 />
-  </url><url>
-    <loc>https://eb1ta1.github.io/en/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eb1ta1.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eb1ta1.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://eb1ta1.github.io/en/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eb1ta1.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eb1ta1.github.io/en/"
-                />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://eb1ta1.github.io/en/search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -49,7 +103,9 @@
                 hreflang="en"
                 href="https://eb1ta1.github.io/en/search/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://eb1ta1.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -61,7 +117,9 @@
                 hreflang="en"
                 href="https://eb1ta1.github.io/en/series/"
                 />
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://eb1ta1.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -74,4 +132,5 @@
                 href="https://eb1ta1.github.io/en/tags/"
                 />
   </url>
+  
 </urlset>
