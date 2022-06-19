@@ -8,21 +8,7 @@
       <url>https://eb1ta1.github.io/papermod-cover.png</url>
       <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/en/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello, World!</title>
-      <link>https://eb1ta1.github.io/en/posts/hello-world/</link>
-      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://eb1ta1.github.io/en/posts/hello-world/</guid>
-      <description>This is my first post on this blog!
-about me   Areas of interest.
- AI Security HCI    Technologies I want to learn.
- Front-end (React + TypeScript) Deep learning (Python) WebAssembly (Rust)    What I want to do.
- Shell implementation Implementation of ray tracer Implementation of music generation AI    contact  Twitter: @eb1ta1  </description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://eb1ta1.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

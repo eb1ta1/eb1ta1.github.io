@@ -3,8 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://eb1ta1.github.io/en/archives/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eb1ta1.github.io/archives/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://eb1ta1.github.io/en/archives/"
+                />
+  </url>
+  
+  <url>
     <loc>https://eb1ta1.github.io/en/categories/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -19,7 +32,6 @@
   
   <url>
     <loc>https://eb1ta1.github.io/en/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
@@ -29,65 +41,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://eb1ta1.github.io/en/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/en/posts/hello-world/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eb1ta1.github.io/posts/hello-world/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eb1ta1.github.io/en/posts/hello-world/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/en/categories/poem/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eb1ta1.github.io/categories/poem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eb1ta1.github.io/en/categories/poem/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/en/posts/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eb1ta1.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eb1ta1.github.io/en/posts/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://eb1ta1.github.io/en/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eb1ta1.github.io/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://eb1ta1.github.io/en/archives/"
                 />
   </url>
   

@@ -9,19 +9,14 @@
       <link>https://eb1ta1.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 19 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eb1ta1.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hello, World!</title>
-      <link>https://eb1ta1.github.io/posts/hello-world/</link>
-      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      <title>VSCode でストレスなく Markdown を書く</title>
+      <link>https://eb1ta1.github.io/posts/better-way-md/</link>
+      <pubDate>Sun, 19 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://eb1ta1.github.io/posts/hello-world/</guid>
-      <description>Hugo でブログを作ったので、お決まりの Hello, World! です。
-このブログでは、技術的なことをゆるゆると書いていきます。
-about me   興味がある領域
- AIセキュリティ HCI    勉強したい技術
- フロントエンド (React + TypeScript) 深層学習 (Python) WASM (Rust)    やりたいこと
- シェルの実装 レイトレーサーの実装 音楽生成AIの実装    contact  Twitter: @eb1ta1  </description>
+      <guid>https://eb1ta1.github.io/posts/better-way-md/</guid>
+      <description>VSCode で Markdown を書く際におすすめな拡張機能をまとめた記事です</description>
     </item>
     
   </channel>
